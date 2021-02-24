@@ -2,13 +2,13 @@
 
 I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
 
-<a href="https://discord.gg/RWSEj6JrjJ">
+<a href="https://discord.gg/RWS6JrjJ">
 
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 
 </a>
 
-<a href="https://twitter.com/Dinav69">
+<a href="https://twitter.com/Nasa">
 
   <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 
@@ -26,7 +26,7 @@ I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
 
 </a>
 
-<a href="https://open.spotify.com/user/4y38lwzm4zn0vlvv5ys">
+<a href="https://open.spotify.com/user/lol">
 
   <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 
