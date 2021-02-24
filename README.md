@@ -44,9 +44,9 @@ I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
 
 ## My Stats
 
-![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dinav69&show_icons=true&theme=tokyonight&layout=compact)
+![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dr-Appukuttan&show_icons=true&theme=tokyonight&layout=compact)
 
-![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinav69&show_icons=true&theme=react)
+![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dr-Appukuttan&show_icons=true&theme=react)
 
 ## Langauges & Tools 
 
