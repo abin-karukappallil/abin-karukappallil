@@ -1,4 +1,4 @@
-#<img src="https://cdn.discordapp.com/attachments/809031839032672327/813335528472182814/740595152124510228.gif" width="35px"> Hey There <img src="https://cdn.discordapp.com/attachments/809031839032672327/813335958170632192/796599576240455692.gif" width="35px">
+<img src="https://cdn.discordapp.com/attachments/809031839032672327/813335528472182814/740595152124510228.gif" width="35px"> Hey There <img src="https://cdn.discordapp.com/attachments/809031839032672327/813335958170632192/796599576240455692.gif" width="35px">
 
 I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
 
@@ -94,5 +94,7 @@ I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
 
 <img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" />
 
-## Check Out my Repos Lol:
+## Current Projects:
+
+• Semester Exams Lol 😭
 
