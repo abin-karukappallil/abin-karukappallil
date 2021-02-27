@@ -8,34 +8,19 @@ I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
 
 </a>
 
-<a href="https://twitter.com/Nasa">
 
-  <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 
-</a>
-
-<a href="https://www.reddit.com/user/Appukuttan">
-
-  <img align="left" alt="Reddit" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-
-</a>
 
 <a href="https://www.instagram.com/abin_karukappallil">
 
   <img align="left" alt="Instagram" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813024181229715466/436651676858974208.png" />
 
 </a>
-
-<a href="https://open.spotify.com/user/lol">
-
-  <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-
-</a>
-
 <a href="https://www.youtube.com/SALEO">
 
   <img align="left" alt="OnlyFans" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813033046927343646/8e88ca9a562a39037a9d708810f3de5b.png" />
 </a>
+## Discord Stats
 
 ![online](https://img.shields.io/discord/740994731705892874?label=Discord)
 
@@ -44,12 +29,12 @@ I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dr-Appukuttan&color=yellow)
 ## My Stats
 
-![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dr-Appukuttan&show_icons=true&theme=tokyonight&layout=compact)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dr-Appukuttan&show_icons=true&theme=tokyonight&layout=compact)
 
-![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dr-Appukuttan&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dr-Appukuttan&show_icons=true&theme=react)
 
 ## Langauges & Tools 
-
+<div>
 <a href="https://www.javascript.com/">
 
   <img align="left" alt="Java Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" />
@@ -93,6 +78,7 @@ I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
 </a>
 
 <img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" />
+<div/>
 
 ## Current Projects:
 
