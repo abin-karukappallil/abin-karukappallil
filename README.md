@@ -16,10 +16,7 @@ I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
   <img align="left" alt="Instagram" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813024181229715466/436651676858974208.png" />
 
 </a>
-<a href="https://www.youtube.com/SALEO">
 
-  <img align="left" alt="OnlyFans" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813033046927343646/8e88ca9a562a39037a9d708810f3de5b.png" />
-</a>
 
 
 ## Discord Stats
