@@ -37,7 +37,7 @@ I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
   <img align="left" alt="OnlyFans" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813033046927343646/8e88ca9a562a39037a9d708810f3de5b.png" />
 </a>
 
-![Discord](https://img.shields.io/discord/785447323156742204?color=7289DA&logo=discord&style=for-the-badge)
+
 
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dr-Appukuttan&color=yellow)
