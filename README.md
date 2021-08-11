@@ -81,7 +81,7 @@ I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
 
 ## Current Projects:
 
-• Semester Exams Lol 😭
+• Nothing...Just Chilling 🥶
 
 ## Thanks For Visiting My GitHub Profile
 
