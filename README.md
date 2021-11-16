@@ -25,12 +25,12 @@ I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
 
 ## Profile Visits
 
-![Profile Visits](https://komarev.com/ghpvc/?username=Dr-Appukuttan&color=yellow)
+![Profile Visits](https://komarev.com/ghpvc/?username=abin-karukappallil&color=yellow)
 ## My Stats
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dr-Appukuttan&show_icons=true&theme=tokyonight&layout=compact)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abin-karukappallil&show_icons=true&theme=tokyonight&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dr-Appukuttan&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abin-karukappallil&show_icons=true&theme=react)
 
 ## Langauges & Tools 
 <div>
@@ -81,9 +81,8 @@ I'm Appukuttan !! Am Making Discord,Instagram Bots,Am also a web designer too
 
 ## Current Projects:
 
-• Nothing...Just Chilling 🥶
+• Creating some cool template and posting in GitHub.
 
 ## Thanks For Visiting My GitHub Profile
 
-<img src="https://cdn.discordapp.com/attachments/745184898075197481/786459573565390868/MOSHED-2020-12-9-23-6-2.gif" width="250px">
 
