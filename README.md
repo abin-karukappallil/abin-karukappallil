@@ -78,7 +78,7 @@ I'm Abin Thomas 👋
 
 <img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" />
 <div/>
-![trophy](https://github-profile-trophy.vercel.app/?username=TheShubhendra)
+![trophy](https://github-profile-trophy.vercel.app/?username=abin-karukappallil)
 
 ## Current Projects:
 
