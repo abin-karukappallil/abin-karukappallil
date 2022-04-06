@@ -2,6 +2,8 @@
 
 I'm Abin Thomas 👋
 
+Pythonista | Quick learner | Hard Working | Optimistic | Introvert
+
 <a href="https://discord.gg/RWS6JrjJ">
 
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
