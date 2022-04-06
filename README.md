@@ -76,11 +76,12 @@ I'm Abin Thomas 👋
 
   <img align="left" alt="C++" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813717836413141102/720003328704249888.png" />
 
+  ![trophy](https://github-profile-trophy.vercel.app/?username=abin-karukappallil)
 </a>
 
 <img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" />
 <div/>
-![trophy](https://github-profile-trophy.vercel.app/?username=abin-karukappallil)
+
 
 ## Current Projects:
 
