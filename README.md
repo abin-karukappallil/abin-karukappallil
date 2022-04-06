@@ -81,8 +81,14 @@ I'm Abin !! Am Making Discord,Instagram Bots,Am also a web designer too
 
 ## Current Projects:
 
-• Creating some cool template and posting in GitHub.
+• Eperiments in Discord.js.
+• Making cool websites
 
-## Thanks For Visiting My GitHub Profile
-
+![snake gif](https://raw.githubusercontent.com/abin-karukappallil/abin-abin-karukappallil-patch-2/snek.svg)
+<div align="center">
+  
+<br/>  
+<img src="https://komarev.com/ghpvc/?username=abin-karukappallil&&style=flat-square" align="center" />
+</div> 
+<br/> 
 
