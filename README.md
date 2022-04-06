@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/848948575844040784/961333265741021254/giphy.gif" width="75px">
 
-I'm Abin !! Am Making Discord,Instagram Bots,Am also a web designer too
+I'm Abin Thomas 👋
 
 <a href="https://discord.gg/RWS6JrjJ">
 
