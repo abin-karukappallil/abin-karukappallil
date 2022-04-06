@@ -2,7 +2,7 @@
 
 I'm Abin Thomas 👋
 
-Pythonista | Quick learner | Hard Working | Optimistic | Introvert
+**Pythonista | Quick learner | Hard Working | Optimistic | Introvert**
 
 <a href="https://discord.gg/RWS6JrjJ">
 
