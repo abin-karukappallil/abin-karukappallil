@@ -84,7 +84,7 @@ I'm Abin !! Am Making Discord,Instagram Bots,Am also a web designer too
 • Eperiments in Discord.js.
 • Making cool websites
 
-![snake gif](https://raw.githubusercontent.com/abin-karukappallil/snek.svg)
+![snake gif](https://raw.githubusercontent.com/abin-karukappallil/abin-karukappallil/main/snek.svg)
 <div align="center">
   
 <br/>  
