@@ -2,14 +2,7 @@
 
 I'm Abin Thomas 👋
 
-**Pythonista | Javascript❤ | Quick learner | Hard Working | Optimistic | Introvert**
-
-<a href="https://discord.gg/RWS6JrjJ">
-
-  <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-
-</a>
-
+** Quick learner | Hard Working | Optimistic | Introvert**
 
 
 
@@ -38,23 +31,6 @@ I'm Abin Thomas 👋
 
 ## Langauges & Tools 
 <div>
-<a href="https://www.javascript.com/">
-
-  <img align="left" alt="Java Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" />
-
-</a>
-
-<a href="https://www.typescriptlang.org/">
-
-  <img align="left" alt="Type Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813338778059931658/791512440021975062.png" />
-
-</a>
-
-<a href="https://nodejs.org/en/">
-
-  <img align="left" alt="NodeJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041964546785280/PikPng.com_js-logo-png_4309640.png" />
-
-</a>
 
 <a href="https://code.visualstudio.com/">
 
@@ -84,10 +60,7 @@ I'm Abin Thomas 👋
 <div/>
 
 
-## Current Projects:
 
-• Eperiments in Discord.js.
-• Making cool websites
 
 ![snake gif](https://raw.githubusercontent.com/abin-karukappallil/abin-karukappallil/main/snek.svg)
 <div align="center">
