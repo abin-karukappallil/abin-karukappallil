@@ -2,7 +2,7 @@
 
 I'm Abin Thomas 👋
 
-** Quick learner | Hard Working | Optimistic | Introvert**
+** Quick learner | Hard Working | Optimistic | Introvert **
 
 
 
