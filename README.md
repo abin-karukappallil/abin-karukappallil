@@ -34,13 +34,7 @@ I'm Abin Thomas 👋
 
 <a href="https://code.visualstudio.com/">
 
-  <img align="left" alt="VScode" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813042483814596618/777960436187398168.png" />
-
-</a>
-
-<a href="https://code.visualstudio.com/insiders/">
-
-  <img align="left" alt="VScodeInsiders" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813042503749337118/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" />
+  <img align="left" alt="VScode" width="28px" src="https://cdn.discordapp.com/attachments/972957443753652246/1215657266707955712/icons8-visual-studio-240.png?ex=65fd8c0e&is=65eb170e&hm=cb9af93c5cfabb73765e9cc7bd5bf8eb9857e4758f231340fd80c2b437704b60&" />
 
 </a>
 
