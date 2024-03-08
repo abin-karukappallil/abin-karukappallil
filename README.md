@@ -8,7 +8,7 @@ I'm Abin Thomas 👋
 
 <a href="https://www.instagram.com/abin_karukappallil">
 
-  <img align="left" alt="Instagram" width="23px" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" />
+  <img align="left" alt="Instagram" width="23px" src="https://discord.com/channels/@me/972957443753652246/1215656290815189012" />
 
 </a>
 
