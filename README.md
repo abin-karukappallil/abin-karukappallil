@@ -33,7 +33,7 @@ I'm Abin Thomas 👋
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,react,vite,vercel,vscode,tailwind,javascript,typescript,markdown,linux,vscode,html,css,latex,python,django,arduino,c,git,github,figma,firebase,githubactions,mongodb,mysql,netlify,nodejs,powershell,bots,discord,postman,selenium&perline=8" />
+    <img src="https://skillicons.dev/icons?i=gcp,react,vite,aws,vscode,tailwind,javascript,typescript,markdown,linux,vscode,html,css,azure,c,git,github,figma,firebase,githubactions,mongodb,mysql,netlify,nodejs,powershell,discord,selenium&perline=8" />
   </a>
 </p>
 
