@@ -29,30 +29,22 @@ I'm Abin Thomas 👋
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=abin-karukappallil)
 
-## Langauges & Tools 
-<div>
+<h2 align="left">Languages and Tools</h2>
 
-<a href="https://code.visualstudio.com/">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,react,vite,vercel,vscode,tailwind,javascript,typescript,markdown,linux,vscode,html,css,latex,python,django,arduino,c,git,github,figma,firebase,githubactions,mongodb,mysql,netlify,nodejs,powershell,bots,discord,postman,selenium&perline=8" />
+  </a>
+</p>
 
-  <img align="left" alt="VScode" width="28px" src="https://cdn.discordapp.com/attachments/972957443753652246/1215657266707955712/icons8-visual-studio-240.png?ex=65fd8c0e&is=65eb170e&hm=cb9af93c5cfabb73765e9cc7bd5bf8eb9857e4758f231340fd80c2b437704b60&" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-</a>
+![](https://raw.githubusercontent.com/alvin-dennis/alvin-dennis/master/assets/snake.svg)
 
-<a href="">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  <img align="left" alt="JS" width="28px" src="https://img.icons8.com/color/48/javascript--v1.png" />
 
-</a>
 
-<a href="">
-
-  <img align="left" alt="aws" width="28px" src="https://img.icons8.com/color/48/amazon-web-services.png" />
-
-</a>
-
-<img width="28px" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" />
-<img width="28px" src="https://img.icons8.com/office/16/000000/java-eclipse.png" alt="ec;pse" />
-<div/>
 
 
 
