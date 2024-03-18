@@ -43,7 +43,6 @@ I'm Abin Thomas 👋
 
 
 
-
 ![snake gif](https://raw.githubusercontent.com/abin-karukappallil/abin-karukappallil/main/snek.svg)
 <div align="center">
 
