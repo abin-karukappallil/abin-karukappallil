@@ -24,7 +24,7 @@ I'm Abin Thomas 👋
 ## My Stats
 
 
-<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-karukappallil&" alt="abin-karukappallil" /></p> -->
+<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-karukappallil&theme=highcontrast" alt="abin-karukappallil"/></p>
 
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abin-karukappallil&show_icons=true&theme=tokyonight&layout=compact)
