@@ -23,7 +23,9 @@ I'm Abin Thomas 👋
 ![Profile Visits](https://komarev.com/ghpvc/?username=abin-karukappallil&color=yellow)
 ## My Stats
 
-<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abin-karukappallil&show_icons=true&locale=en&layout=compact" alt="jovit-mathew236" /></p>
+
+<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-karukappallil&" alt="abin-karukappallil" /></p> -->
+
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abin-karukappallil&show_icons=true&theme=tokyonight&layout=compact)
 
