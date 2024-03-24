@@ -13,7 +13,6 @@ I'm Abin Thomas 👋
 
 
 
-
 ![online](https://img.shields.io/discord/740994731705892874?label=Discord)
 
 ## Profile Visits
