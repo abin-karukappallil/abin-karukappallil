@@ -30,7 +30,7 @@ I'm Abin Thomas 👋
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vscode,javascript,heroku,gcp,js,linux,html,css,azure,github,figma,firebase,mongodb,nodejs&perline=7" />
+    <img src="https://skillicons.dev/icons?i=aws,vscode,javascript,heroku,gcp,js,linux,html,css,azure,github,figma,firebase,nodejs&perline=7" />
   </a>
 </p>
 
