@@ -2,7 +2,6 @@
 
 
 
-
 I'm Abin Thomas 👋
 
 **Quick learner | Hard Working | Optimistic**
