@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/nicemondominic/nicemondominic/main/coding.gif" >     
+<img src="https://raw.githubusercontent.com/nicemondominic/nicemondominic/main/coding.gif" >   
+
 I'm Abin Thomas 👋
 
 **Quick learner | Hard Working | Optimistic**
