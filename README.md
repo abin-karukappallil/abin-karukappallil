@@ -31,8 +31,8 @@ I'm Abin Thomas 👋
 <h2 align="left">Languages and Tools</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,js,linux,html,css,eclipse,aws,azure,gcp,heroku,github,figma,firebase,nodejs,vite,ts,react,nextjs,mongodbmongodb,discordjs,c&perline=7" />
+  <a href="https://abinthomas.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,js,linux,html,css,eclipse,aws,azure,gcp,heroku,github,figma,firebase,nodejs,vite,ts,react,nextjs,mongodb,discordjs,c&perline=7" />
   </a>
 </p>
 
