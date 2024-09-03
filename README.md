@@ -26,7 +26,7 @@ I'm Abin Thomas 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abin-karukappallil&show_icons=true&theme=react)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=abin-karukappallil&theme=gruvbox&row=3&column=3)
+![trophy](https://github-profile-trophy.vercel.app/?username=abin-karukappallil&theme=gruvbox&row=1&column=9)
    
 <h2 align="left">Languages and Tools</h2>
 
