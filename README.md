@@ -19,14 +19,14 @@ I'm Abin Thomas 👋
 ## My Stats
 
 
-<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-karukappallil&theme=tokyonight" alt="abin-karukappallil"/></p>
+<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-karukappallil&theme=highcontrast" alt="abin-karukappallil"/></p>
 
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abin-karukappallil&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&card_width=447&card_height=195)
 
 ![abin-karukappallil's Stats](https://github-readme-stats.vercel.app/api?username=abin-karukappallil&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=abin-karukappallil&theme=gruvbox&row=1&column=9)
+![trophy](https://github-profile-trophy.vercel.app/?username=abin-karukappallil&theme=tokyonight&row=1&column=9)
    
 <h2 align="left">Languages and Tools</h2>
 
