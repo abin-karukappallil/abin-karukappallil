@@ -19,10 +19,10 @@ I'm Abin Thomas 👋
 ## My Stats
 
 
-<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-karukappallil&theme=highcontrast&hide_border=true&theme=tokyonight" alt="abin-karukappallil"/></p>
+<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-karukappallil&theme=highcontrast&hide_border=true" alt="abin-karukappallil"/></p>
 
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abin-karukappallil&show_icons=true&theme=tokyonight&hide_border=true&layout=compact)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abin-karukappallil&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&card_width=497&card_height=195))
 
 ![abin-karukappallil's Stats](https://github-readme-stats.vercel.app/api?username=abin-karukappallil&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
