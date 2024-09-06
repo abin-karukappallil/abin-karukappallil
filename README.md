@@ -24,7 +24,7 @@ I'm Abin Thomas 👋
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abin-karukappallil&show_icons=true&theme=tokyonight&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abin-karukappallil&show_icons=true&theme=react)
+![abin-karukappallil's Stats](https://github-readme-stats.vercel.app/api?username=abin-karukappallil&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=abin-karukappallil&theme=gruvbox&row=1&column=9)
    
