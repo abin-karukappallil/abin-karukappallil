@@ -22,7 +22,7 @@ I'm Abin Thomas 👋
 <div align="center">
   <div style="display: flex;">
     
-![GitHub Streak](https://streak-stats.demolab.com?user=abin-karukappallil&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abin-karukappallil&theme=highcontrast)](https://git.io/streak-stats)
 
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abin-karukappallil&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&card_width=447&card_height=195)
